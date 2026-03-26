@@ -1,6 +1,10 @@
 # Real-Time Stock Market Data Analytics Pipeline
 
-![Architecture Diagram Placeholder](images/architecture-diagram.png)
+<p align="center">
+  <img src="https://i.gyazo.com/3194b661e8a109bcfeb1e7ee655aa7c8.png" alt="Diagram" width="700">
+  <br>
+  <sub>Figure 1: Architecture Diagram</sub>
+</p>
 
 ## Overview
 This project builds a real-time analytics pipeline for stock market data using AWS serverless and event-driven services. It ingests, processes, stores, and analyzes stock data in real-time, generating actionable insights for investors and analysts. The pipeline demonstrates scalable, low-latency, and cost-efficient cloud analytics.
@@ -34,7 +38,12 @@ Batch processing of stock data delays insights and prevents timely decision-maki
 - IAM Roles & Policies [Security]  
 
 ## Results
-![Application Screenshot Placeholder](images/results.png)  
+
+  <p align="center">
+  <img src="https://i.gyazo.com/b85a24fe5269a02b29dd302be1b1db53.png" alt="Application" width="700">
+  <br>
+  <sub>Figure 3: Application</sub>
+</p>
 
 ## Future Improvements
 - Integrate advanced anomaly detection using ML models  
